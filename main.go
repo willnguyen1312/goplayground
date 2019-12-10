@@ -9,3 +9,8 @@ import (
 func main() {
 	fmt.Println("Go Testing")
 }
+
+// GetNum return a number
+func GetNum() int {
+	return 5
+}
